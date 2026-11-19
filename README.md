@@ -8,7 +8,7 @@
 
 [![X (Twitter)](https://img.shields.io/badge/X-@ielfeqi-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ielfeqi)
 [![GitHub](https://img.shields.io/badge/GitHub-ielfeqi--rgb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ielfeqi-rgb)
-[![Email](https://img.shields.io/badge/Email-ielfeqi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ielfeqi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omni.engine@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:omni.engine@proton.me)
 
 </div>
 
